@@ -83,7 +83,7 @@ Each assignment demonstrates foundational concepts of **C Programming**, and eve
 
 ## 👨‍💻 About Me
 
-**Student:** [Your Name]  
+**Student:** Suyash Mane
 **Program:** B.Tech Computer Science Engineering (CSE Core)  
 **Semester:** 2nd Semester  
 **University:** MIT World Peace University (MIT-WPU), Pune  
